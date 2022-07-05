@@ -1,2 +1,6 @@
 # meta-front-end-developer
-My progress in the course Meta Front-End Developer Professional Certificate offered by Coursera
+
+## Course 1 : [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development)
+
+- [Week 1]()
+
