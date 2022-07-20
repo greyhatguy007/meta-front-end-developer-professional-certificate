@@ -11,6 +11,9 @@
     - [Quiz - Getting Started with HTML](/C1-introduction-to-front-end-development/week2/q1-getting-started-with-html/)
     - [Quiz - CSS Basics](/C1-introduction-to-front-end-development/week2/q2-css-basics/)
     - [Module Quiz - Introduction to HTML and CSS](/C1-introduction-to-front-end-development/week2/q3-introduction-to-html-and-css/)
+    - [Programming Assignment - Creating a HTML Document](/C1-introduction-to-front-end-development/week2/C1W2A1-Creating-a-html-document/)
+    - [Programming Assignment - Styling a Page](/C1-introduction-to-front-end-development/week2/C1W2A2-styling-a-page/)
+    - [Programming Assignment - Create and Style a Webpage](/C1-introduction-to-front-end-development/week2/C1W2A3-create-and-style-a-webpage/)
 
 - [Week 3](/C1-introduction-to-front-end-development/week3/)
     - [Quiz - Working with Bootstrap Grid](/C1-introduction-to-front-end-development/week3/q1-working-with-bootstrap-grid/)
