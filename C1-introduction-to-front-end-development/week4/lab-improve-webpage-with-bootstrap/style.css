@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(96, 124, 115);
+}
+
+h1,
+h2 {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+h1 {
+    text-decoration: underline;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+img {
+    margin-bottom: 30px;
+    border: 5px solid green
+}

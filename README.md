@@ -18,6 +18,9 @@
 - [Week 3](/C1-introduction-to-front-end-development/week3/)
     - [Quiz - Working with Bootstrap Grid](/C1-introduction-to-front-end-development/week3/q1-working-with-bootstrap-grid/)
     - [Quiz - Working with Bootstrap Components](/C1-introduction-to-front-end-development/week3/q2-working-with-bootstrap-components/)
+    - [Lab - Working with Bootstrap Grid](/C1-introduction-to-front-end-development/week3/lab1-working-with-bootstrap-grid/
 
 - [Week 4](/C1-introduction-to-front-end-development/week4/)
-
+    - [Quiz - Improve Webpage Using Bootstrap](/C1-introduction-to-front-end-development/week4/q1-improve-webpage-with-bootstrap/)
+    - [Lab - Improve Webpage Using Bootstrap](/C1-introduction-to-front-end-development/week4/lab-improve-webpage-with-bootstrap/)
+    - [Assignment - Introduction to Web Development](/C1-introduction-to-front-end-development/week4/assignment-intro-to-web-dev/)
