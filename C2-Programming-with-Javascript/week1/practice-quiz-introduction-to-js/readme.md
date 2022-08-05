@@ -1,0 +1,5 @@
+![](/C2-Programming-with-Javascript/week1/practice-quiz-introduction-to-js/ss1.png)
+![](/C2-Programming-with-Javascript/week1/practice-quiz-introduction-to-js/ss2.png)
+![](/C2-Programming-with-Javascript/week1/practice-quiz-introduction-to-js/ss3.png)
+![](/C2-Programming-with-Javascript/week1/practice-quiz-introduction-to-js/ss4.png)
+![](/C2-Programming-with-Javascript/week1/practice-quiz-introduction-to-js/ss5.png)

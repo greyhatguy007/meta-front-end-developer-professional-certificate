@@ -26,3 +26,27 @@
     - [Assignment - Introduction to Web Development](/C1-introduction-to-front-end-development/week4/assignment-intro-to-web-dev/)
 
 ### [Certificate of Completion](https://coursera.org/share/e3c3644964d5b227548708fc8deee4f8)  
+
+<br/>
+
+## [Programming With Javascript](/C2-Programming-with-Javascript/)
+
+- [Week 1](/C2-Programming-with-Javascript/week1/)
+    - [Quiz - Welcome to Programming](/C2-Programming-with-Javascript/week1/practice-quiz-welcome-to-programming%20/)
+    - [Quiz - Introduction to Javascript](/C2-Programming-with-Javascript/week1/practice-quiz-introduction-to-js/)
+
+<br/>
+
+- [Week 1](/C2-Programming-with-Javascript/week2/)
+
+<br/>
+
+- [Week 1](/C2-Programming-with-Javascript/week3/)
+
+<br/>
+
+- [Week 1](/C2-Programming-with-Javascript/week4/)
+
+<br/>
+
+- [Week 1](/C2-Programming-with-Javascript/week5/)
