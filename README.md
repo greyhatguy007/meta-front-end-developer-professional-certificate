@@ -40,7 +40,7 @@
 <br/>
 
 - [Week 2](/C2-Programming-with-Javascript/week2/)
-    -[Quiz - Arrays, Objects and Functions](/C2-Programming-with-Javascript/week2/practice-quiz-arrays-objects-and-functions/)
+    - [Quiz - Arrays, Objects and Functions](/C2-Programming-with-Javascript/week2/practice-quiz-arrays-objects-and-functions/)
 
 <br/>
 
