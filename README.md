@@ -39,16 +39,17 @@
 
 <br/>
 
-- [Week 1](/C2-Programming-with-Javascript/week2/)
+- [Week 2](/C2-Programming-with-Javascript/week2/)
+    -[Quiz - Arrays, Objects and Functions](/C2-Programming-with-Javascript/week2/practice-quiz-arrays-objects-and-functions/)
 
 <br/>
 
-- [Week 1](/C2-Programming-with-Javascript/week3/)
+- [Week 3](/C2-Programming-with-Javascript/week3/)
 
 <br/>
 
-- [Week 1](/C2-Programming-with-Javascript/week4/)
+- [Week 4](/C2-Programming-with-Javascript/week4/)
 
 <br/>
 
-- [Week 1](/C2-Programming-with-Javascript/week5/)
+- [Week 5](/C2-Programming-with-Javascript/week5/)
