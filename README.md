@@ -46,6 +46,7 @@
 
 - [Week 3](/C2-Programming-with-Javascript/week3/)
     - [Programming Assignment - Functional Programming](/C2-Programming-with-Javascript/week3/functional_programming/)
+    - [Quiz - Introduction to Functional Programming](/C2-Programming-with-Javascript/week3/practice-quiz-intro-to-functional-programming/)
 
 <br/>
 
