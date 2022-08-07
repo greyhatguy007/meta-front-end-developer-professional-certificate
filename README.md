@@ -45,6 +45,7 @@
 <br/>
 
 - [Week 3](/C2-Programming-with-Javascript/week3/)
+    - [Programming Assignment - Functional Programming](/C2-Programming-with-Javascript/week3/functional_programming/)
 
 <br/>
 
