@@ -41,11 +41,13 @@
 
 - [Week 2](/C2-Programming-with-Javascript/week2/)
     - [Quiz - Arrays, Objects and Functions](/C2-Programming-with-Javascript/week2/practice-quiz-arrays-objects-and-functions/)
+    - [Quiz - Error Handling](/C2-Programming-with-Javascript/week2/practice-quiz-Error-handling/)
 
 <br/>
 
 - [Week 3](/C2-Programming-with-Javascript/week3/)
     - [Programming Assignment - Functional Programming](/C2-Programming-with-Javascript/week3/functional_programming/)
+    - [Programming Assignment - Building an Object Oriented Program](/C2-Programming-with-Javascript/week3/building-an-oop/)
     - [Quiz - Introduction to Functional Programming](/C2-Programming-with-Javascript/week3/practice-quiz-intro-to-functional-programming/)
 
 <br/>
