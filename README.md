@@ -48,6 +48,7 @@
 - [Week 3](/C2-Programming-with-Javascript/week3/)
     - [Programming Assignment - Functional Programming](/C2-Programming-with-Javascript/week3/functional_programming/)
     - [Programming Assignment - Building an Object Oriented Program](/C2-Programming-with-Javascript/week3/building-an-oop/)
+    - [Programming Assignment - Array and Object Iteration](/C2-Programming-with-Javascript/week3/array-and-object-iteration/)
     - [Quiz - Introduction to Functional Programming](/C2-Programming-with-Javascript/week3/practice-quiz-intro-to-functional-programming/)
 
 <br/>
