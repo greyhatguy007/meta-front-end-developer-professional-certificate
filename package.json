@@ -1,0 +1,22 @@
+{
+    "name": "meta-front-end-developer-coursera",
+    "version": "1.0.0",
+    "description": "![master_head](/master_head.png)",
+    "main": "/",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/greyhatguy007/meta-front-end-developer-coursera.git"
+    },
+    "author": "Ritvik",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/greyhatguy007/meta-front-end-developer-coursera/issues"
+    },
+    "homepage": "https://github.com/greyhatguy007/meta-front-end-developer-coursera#readme",
+    "dependencies": {
+        "jest": "^28.1.3"
+    }
+}

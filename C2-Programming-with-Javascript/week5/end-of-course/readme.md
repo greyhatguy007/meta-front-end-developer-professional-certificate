@@ -1,0 +1,6 @@
+![](/C2-Programming-with-Javascript/week5/end-of-course/ss1.png)
+![](/C2-Programming-with-Javascript/week5/end-of-course/ss2.png)
+![](/C2-Programming-with-Javascript/week5/end-of-course/ss3.png)
+![](/C2-Programming-with-Javascript/week5/end-of-course/ss4.png)
+![](/C2-Programming-with-Javascript/week5/end-of-course/ss5.png)
+![](/C2-Programming-with-Javascript/week5/end-of-course/ss6.png)

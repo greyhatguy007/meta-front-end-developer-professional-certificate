@@ -50,11 +50,16 @@
     - [Programming Assignment - Building an Object Oriented Program](/C2-Programming-with-Javascript/week3/building-an-oop/)
     - [Programming Assignment - Array and Object Iteration](/C2-Programming-with-Javascript/week3/array-and-object-iteration/)
     - [Quiz - Introduction to Functional Programming](/C2-Programming-with-Javascript/week3/practice-quiz-intro-to-functional-programming/)
+    - [Quiz - Programming Paradigms](/C2-Programming-with-Javascript/week3/programming-paradigms/)
 
 <br/>
 
 - [Week 4](/C2-Programming-with-Javascript/week4/)
+    - [Programming Assignment - Writing a Unit Test](/C2-Programming-with-Javascript/week4/w4a1/)
+    - [Quiz - Testing](/C2-Programming-with-Javascript/week4/practice-quiz-testing/)
 
 <br/>
 
 - [Week 5](/C2-Programming-with-Javascript/week5/)
+    - [Programming Assignment](/C2-Programming-with-Javascript/week5/w5a1/)
+    - [End Of Course Quiz](/C2-Programming-with-Javascript/week5/end-of-course/)
