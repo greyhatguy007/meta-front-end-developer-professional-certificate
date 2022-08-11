@@ -63,3 +63,5 @@
 - [Week 5](/C2-Programming-with-Javascript/week5/)
     - [Programming Assignment](/C2-Programming-with-Javascript/week5/w5a1/)
     - [End Of Course Quiz](/C2-Programming-with-Javascript/week5/end-of-course/)
+
+### [Certificate of Completion](https://coursera.org/share/776b08764b581700c0eabb28294530ed)
