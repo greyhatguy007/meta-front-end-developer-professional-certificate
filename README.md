@@ -31,7 +31,7 @@
 
 <br/>
 
-## [Programming With Javascript](/C2-Programming-with-Javascript/)
+## Course 2 : [Programming With Javascript](/C2-Programming-with-Javascript/)
 
 - [Week 1](/C2-Programming-with-Javascript/week1/)
     - [Quiz - Welcome to Programming](/C2-Programming-with-Javascript/week1/practice-quiz-welcome-to-programming%20/)
@@ -65,3 +65,26 @@
     - [End Of Course Quiz](/C2-Programming-with-Javascript/week5/end-of-course/)
 
 ### [Certificate of Completion](https://coursera.org/share/776b08764b581700c0eabb28294530ed)
+
+
+## Course 3 : [Version Control](/C3-Version-Control/)
+
+- [Week 1](/C3-Programming-with-Javascript/week1)
+    - [Practice Quiz - Introduction to Version Control](/C3-Version-Control/week1/practice-quiz-Introduction-to-version-control/)
+    - [Module Quiz - Software Collaboration](/C3-Version-Control/week1/module-quiz-software-colloboration/)
+
+</br>
+
+- [Week 2](/C3-Programming-with-Javascript/week2)
+    - [Practice Quiz - Unix Commands](/C3-Version-Control/week2/practice-quiz-unix-commands/)
+    - [Module Quiz - Command Line](/C3-Version-Control/week2/module-quiz-command-line/)
+
+</br>
+
+- [Week 3](/C3-Programming-with-Javascript/week3)
+    - [Module Quiz - Working With Git](/C3-Version-Control/week3/module-quiz-working-with-git/)
+
+</br>
+
+- [Week 4](/C3-Programming-with-Javascript/week4)
+    - [End Of Course Graded Assignment](/C3-Version-Control/week4/end-of-course-graded-assignment/)
