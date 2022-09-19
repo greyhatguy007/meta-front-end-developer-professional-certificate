@@ -88,3 +88,5 @@
 
 - [Week 4](/C3-Version-Control/week4)
     - [End Of Course Graded Assignment](/C3-Version-Control/week4/end-of-course-graded-assignment/)
+
+### [Certificate of Completion](https://coursera.org/share/9953c74eaeb424f9a3d65622b611e193)
