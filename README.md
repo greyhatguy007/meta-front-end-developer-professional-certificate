@@ -69,22 +69,22 @@
 
 ## Course 3 : [Version Control](/C3-Version-Control/)
 
-- [Week 1](/C3-Programming-with-Javascript/week1)
+- [Week 1](/C3-Version-Control/week1/)
     - [Practice Quiz - Introduction to Version Control](/C3-Version-Control/week1/practice-quiz-Introduction-to-version-control/)
     - [Module Quiz - Software Collaboration](/C3-Version-Control/week1/module-quiz-software-colloboration/)
 
 </br>
 
-- [Week 2](/C3-Programming-with-Javascript/week2)
+- [Week 2](/C3-Version-Control/week2)
     - [Practice Quiz - Unix Commands](/C3-Version-Control/week2/practice-quiz-unix-commands/)
     - [Module Quiz - Command Line](/C3-Version-Control/week2/module-quiz-command-line/)
 
 </br>
 
-- [Week 3](/C3-Programming-with-Javascript/week3)
+- [Week 3](/C3-Version-Control/week3)
     - [Module Quiz - Working With Git](/C3-Version-Control/week3/module-quiz-working-with-git/)
 
 </br>
 
-- [Week 4](/C3-Programming-with-Javascript/week4)
+- [Week 4](/C3-Version-Control/week4)
     - [End Of Course Graded Assignment](/C3-Version-Control/week4/end-of-course-graded-assignment/)
