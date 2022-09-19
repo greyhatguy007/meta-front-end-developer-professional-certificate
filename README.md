@@ -102,3 +102,4 @@
     - [Practice Quiz - Declaring Form Elements](/C4-HTML-and-CSS-in-depth/week1/practice-quiz-declaring-form-elements/)
     - [Practice Quiz - Form Submission](/C4-HTML-and-CSS-in-depth/week1/practice-quiz-form-submission/)
     - [Lab - Create and Test a Form](/C4-HTML-and-CSS-in-depth/week1/lab-create-and-test-a-form/)
+    - [Lab - Create a Complex Form](/C4-HTML-and-CSS-in-depth/week1/lab-create-a-complex-form/)
