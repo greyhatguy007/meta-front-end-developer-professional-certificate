@@ -110,3 +110,4 @@
   - [Lab - Create and Test a Form](/C4-HTML-and-CSS-in-depth/week1/lab-create-and-test-a-form/)
   - [Lab - Create a Complex Form](/C4-HTML-and-CSS-in-depth/week1/lab-create-a-complex-form/)
   - [Lab - Rate the Media](/C4-HTML-and-CSS-in-depth/week1/lab-rate-the-media/)
+  - [Module Quiz - HTML Deepdive](/C4-HTML-and-CSS-in-depth/week1/module-quiz-HTML-deepdive/)
