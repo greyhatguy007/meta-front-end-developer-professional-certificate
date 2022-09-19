@@ -101,5 +101,6 @@
     - [Practice Quiz - Semantic and Meta tags](/C4-HTML-and-CSS-in-depth/week1/practice-quiz-semantic-and-meta-tags/)
     - [Practice Quiz - Declaring Form Elements](/C4-HTML-and-CSS-in-depth/week1/practice-quiz-declaring-form-elements/)
     - [Practice Quiz - Form Submission](/C4-HTML-and-CSS-in-depth/week1/practice-quiz-form-submission/)
+    - [Practice Quiz - User Inputs and Forms](/C4-HTML-and-CSS-in-depth/week1/practice-quiz-user-inputs-and-forms/)
     - [Lab - Create and Test a Form](/C4-HTML-and-CSS-in-depth/week1/lab-create-and-test-a-form/)
     - [Lab - Create a Complex Form](/C4-HTML-and-CSS-in-depth/week1/lab-create-a-complex-form/)
