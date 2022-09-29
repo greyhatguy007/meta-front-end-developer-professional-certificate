@@ -117,3 +117,4 @@
 - [Week 2](/C4-HTML-and-CSS-in-depth/week2/)
   - [Practice Quiz - Creating Layouts](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-creating-layouts/)
   - [Practice Quiz - CSS Selectors](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-css-selectors/)
+  - [Practice Quiz - CSS Effects](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-css-effects/)
