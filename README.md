@@ -111,3 +111,9 @@
   - [Lab - Create a Complex Form](/C4-HTML-and-CSS-in-depth/week1/lab-create-a-complex-form/)
   - [Lab - Rate the Media](/C4-HTML-and-CSS-in-depth/week1/lab-rate-the-media/)
   - [Module Quiz - HTML Deepdive](/C4-HTML-and-CSS-in-depth/week1/module-quiz-HTML-deepdive/)
+
+</br>
+
+- [Week 2](/C4-HTML-and-CSS-in-depth/week2/)
+  - [Practice Quiz - Creating Layouts](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-creating-layouts/)
+  - [Practice Quiz - CSS Selectors](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-css-selectors/)
