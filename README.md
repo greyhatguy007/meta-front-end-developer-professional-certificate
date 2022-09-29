@@ -118,3 +118,5 @@
   - [Practice Quiz - Creating Layouts](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-creating-layouts/)
   - [Practice Quiz - CSS Selectors](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-css-selectors/)
   - [Practice Quiz - CSS Effects](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-css-effects/)
+  - [Practice Quiz - Debugging](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-debugging/)
+  - [Module Quiz - Interactive CSS](/C4-HTML-and-CSS-in-depth/week2/module-quiz-interactive-css/)

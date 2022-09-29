@@ -38,12 +38,12 @@ img {
     margin-right: auto;
 }
 
-h2 > span {
+h2>span {
     color: #FA9F42;
     font-size: 0.75em;
 }
 
-form > div {
+form>div {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
