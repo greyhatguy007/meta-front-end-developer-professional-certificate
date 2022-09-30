@@ -1,0 +1,372 @@
+:root {
+    --background1: #4c6085;
+    --background2: #39a0ed;
+    --background3: #9cf600cd;
+    --background4: #13c4a3;
+}
+
+
+/* --------------global-----------------  */
+
+body {
+    background-color: var(--background4);
+    padding: 0px;
+    margin: 0px;
+    /* margin: 6px 4vw; */
+}
+
+h2 {
+    font-size: 40px;
+    text-decoration: underline solid black;
+    text-shadow: 2px 2px whitesmoke;
+}
+
+
+/* ----------header------------ */
+
+.logo {
+    margin: 0 auto;
+    padding: 2vh 4vw 5vw 4vw;
+}
+
+
+/* -------------Main--------------- */
+
+.banner>img {
+    width: 10%;
+}
+
+main {
+    padding-bottom: 0px;
+}
+
+
+/* ------------------Home----------------- */
+
+.home {
+    background-image: url(/images/rest-bg.jpeg);
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.3);
+    background-size: cover;
+    /* background-color: var(--background2); */
+}
+
+.home>h2 {
+    color: white;
+    text-shadow: 2px 2px gray;
+}
+
+.home>p {
+    /* background-color: rgba(240, 248, 255, 0.436); */
+    margin: 0px 3vw;
+    font-size: 20px;
+    color: white;
+    text-shadow: rgb(0, 0, 0) 2px 2px;
+    font-weight: bolder;
+    line-height: 60px;
+}
+
+
+/* -----------------Menu---------------- */
+
+.menu>p {
+    font-size: 20px;
+    margin-left: 2vw;
+    margin-bottom: 50px;
+}
+
+tr:nth-child(even) {
+    background-color: #1a17171d;
+}
+
+tr:nth-child(odd) {
+    background-color: rgba(255, 255, 255, 0.415);
+}
+
+tr:nth-child(1) {
+    background-color: rgba(96, 225, 22, 0.327);
+}
+
+tr:hover {
+    background-color: rgb(52, 222, 26);
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+}
+
+th {
+    font-size: 20px;
+    padding: 20px 50px;
+}
+
+td {
+    padding: 10px 30px;
+}
+
+tr:nth-child(1) {
+    text-align: left;
+}
+
+table>tr:nth-child() {
+    text-align: center;
+}
+
+.menu-t {
+    margin: 0 auto;
+}
+
+
+/* ---------------New Arrivals--------------- */
+
+.food-item {
+    display: inline-flex;
+    width: 300px;
+    height: 450px;
+    flex-direction: column;
+    padding: 12px;
+    margin: 5px 5px;
+    border: 5px black solid;
+    border-radius: 30px;
+    background-color: var(--background4);
+}
+
+.food-item:hover {
+    transform: scaleX(120%) scaleY(120%);
+    transition: 150ms;
+    box-shadow: 5px 5px rgba(17, 17, 17, 0.379);
+}
+
+.food-item>p {
+    font-weight: bold;
+}
+
+.food-item>h6 {
+    font-size: 25px;
+    padding: 0px 0px;
+    text-decoration: underline solid black;
+}
+
+.food-item>img {
+    align-self: center;
+    padding: 0px 0px;
+    width: 300px;
+    height: 200px;
+    border: black solid 5px;
+}
+
+
+/* -------------------About Us-------------  */
+
+.about {
+    background-color: rgba(28, 178, 191, 0.719);
+    padding-bottom: 40px;
+}
+
+.about>h2 {
+    padding-top: 40px;
+}
+
+.about>p {
+    margin: 0px 2vw;
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: bold;
+}
+
+.about>h5 {
+    font-size: 30px;
+    margin-left: 2vw;
+}
+
+.reviews {
+    margin: 0px 0.5vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: auto
+}
+
+.review-content {
+    position: relative;
+    padding: 12px;
+    margin: 5px 5px;
+    border: 5px black solid;
+    border-radius: 30px;
+    background-color: var(--background4);
+    padding-bottom: 10px;
+    margin: 10px 0px 0px 10px;
+    width: 45vw;
+    background-color: #ffffffc8;
+    max-width: 550px;
+}
+
+.rev-title {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+.review-content>.rev-title>img {
+    border: black solid 4px;
+    border-radius: 100px;
+    height: 80px;
+    display: inline-block;
+}
+
+.review-content>.rev-title>.name {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 24px;
+    margin: 0px 0px 40px 0px;
+    padding: 30px;
+    padding-bottom: 0px;
+}
+
+.review-content>.rev {
+    font-size: 22px;
+    line-height: 40px;
+}
+
+.review-content:hover {
+    transform: scaleX(107%) scaleY(107%);
+    transition: 150ms;
+    box-shadow: 5px 5px rgba(17, 17, 17, 0.379);
+}
+
+.review-content>.rev-title>img:hover {
+    transform: scaleX(150%) scaleY(150%);
+    transition: 150ms;
+    box-shadow: 5px 5px rgba(17, 17, 17, 0.379);
+}
+
+
+/* -------------footer----------------- */
+
+footer {
+    background-image: url(/images/banner-cropped.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+footer .address {
+    color: white;
+    font-size: 18px;
+    padding-left: 2vw;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+.cont-h {
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+    text-decoration: underline solid 2px rgb(255, 255, 255);
+}
+
+
+/* ------------Responsive------------- */
+
+@media screen and (max-width: 750px) {
+    .food-item {
+        width: 43%;
+        height: 300px;
+        padding: 5px;
+        margin: 5px 5px;
+    }
+    .food-item>h6 {
+        font-size: 18px;
+        margin: 25px 0px 20px 0px;
+        text-decoration: underline solid black;
+    }
+    .food-item>p {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .food-item>img {
+        align-self: center;
+        padding: 0px 0px;
+        width: 38vw;
+        height: 125px;
+        border: black solid 3px;
+    }
+}
+
+@media screen and (max-width:880px) {
+    .review-content {
+        width: 75vw;
+    }
+}
+
+
+/* ---------------navbar------------------ */
+
+.navbar {
+    clear: both;
+    margin: 0vw 3vw;
+    padding: 0.75vw 0.75vw;
+    border-radius: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.nav-item {
+    background-color: rgb(255, 23, 7);
+    width: 100vw;
+    text-align: center;
+    color: whitesmoke;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 150%;
+    border: 3px blue solid
+}
+
+.nav-item>a {
+    color: whitesmoke;
+    display: block;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    background-color: rgba(200, 200, 25, 0.5);
+    border: 3px yellow solid;
+    color: rgb(0, 0, 0);
+    box-shadow: 5px 0px 20px rgb(0, 0, 0);
+}
+
+.nav-item>a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.nav-item:active {
+    background-color: yellow;
+    color: black;
+    border: 3px black solid;
+}
+
+@media screen and (max-width:1110px) {
+    .navbar {
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+    .nav-item {
+        width: 33vw;
+    }
+}
+
+@media screen and (max-width:750px) {
+    .navbar {
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+    .nav-item {
+        width: 100vw;
+    }
+}

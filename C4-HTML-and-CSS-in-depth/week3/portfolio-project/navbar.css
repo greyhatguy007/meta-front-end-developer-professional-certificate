@@ -1,0 +1,82 @@
+/* 
+
+This is a navbar css using flexbox 
+
+navigation bar - class : navbar
+navigation items - class : nav-item
+
+*/
+
+:root {
+    --background1: #4c6085;
+    --background2: #39a0ed;
+    --background3: #36f1cd;
+    --background4: #13c4a3;
+}
+
+.navbar {
+    clear: both;
+    margin: 0vw 3vw;
+    padding: 0.75vw 0.75vw;
+    border-radius: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.nav-item {
+    background-color: rgb(255, 23, 7);
+    width: 100vw;
+    text-align: center;
+    color: whitesmoke;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 150%;
+    border: 3px blue solid
+}
+
+.nav-item>a {
+    color: whitesmoke;
+    display: block;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    background-color: rgba(200, 200, 25, 0.5);
+    border: 3px yellow solid;
+    color: rgb(0, 0, 0);
+    box-shadow: 5px 0px 20px rgb(0, 0, 0);
+}
+
+.nav-item>a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.nav-item:active {
+    background-color: yellow;
+    color: black;
+    border: 3px black solid;
+}
+
+@media screen and (max-width:1110px) {
+    .navbar {
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+    .nav-item {
+        width: 33vw;
+    }
+}
+
+@media screen and (max-width:750px) {
+    .navbar {
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+    .nav-item {
+        width: 100vw;
+    }
+}
