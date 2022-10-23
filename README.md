@@ -112,7 +112,7 @@
   - [Lab - Rate the Media](/C4-HTML-and-CSS-in-depth/week1/lab-rate-the-media/)
   - [Module Quiz - HTML Deepdive](/C4-HTML-and-CSS-in-depth/week1/module-quiz-HTML-deepdive/)
 
-</br>
+<br/>
 
 - [Week 2](/C4-HTML-and-CSS-in-depth/week2/)
   - [Practice Quiz - Creating Layouts](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-creating-layouts/)
@@ -120,3 +120,31 @@
   - [Practice Quiz - CSS Effects](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-css-effects/)
   - [Practice Quiz - Debugging](/C4-HTML-and-CSS-in-depth/week2/practice-quiz-debugging/)
   - [Module Quiz - Interactive CSS](/C4-HTML-and-CSS-in-depth/week2/module-quiz-interactive-css/)
+
+- [Week 3](/C4-HTML-and-CSS-in-depth/week3/)
+  - [Portfolio Project](/C4-HTML-and-CSS-in-depth/week3/portfolio-project/)
+
+
+### [Certificate of Completion](https://coursera.org/share/664362a0323604f63d3917f832d95d2c)
+
+
+<br/>
+
+## Course 5 : [React Basics](/C5-React-Basics/)
+
+- [Week 1](/C5-React-Basics/week1/)
+  - [Lab - Your First Component](/C5-React-Basics/week1/lab-your-first-component/)
+
+<br/>
+
+- [Week 2](/C5-React-Basics/week2/)
+
+<br/>
+
+
+- [Week 3](/C5-React-Basics/week3/)
+
+<br/>
+
+
+- [Week 4](/C5-React-Basics/week4/)
