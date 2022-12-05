@@ -136,6 +136,7 @@
   - [Lab - Your First Component](/C5-React-Basics/week1/lab-your-first-component/)
   - [Lab - Creating and Importing Components](/C5-React-Basics/week1/lab-creating-and-importing-components/)
   - [Lab - Passing Props](/C5-React-Basics/week1/lab-passing-props/)
+  - [Module Quiz](/C5-React-Basics/week1/module-quiz/)
 
 <br/>
 
