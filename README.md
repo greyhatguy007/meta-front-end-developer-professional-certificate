@@ -1,6 +1,6 @@
 # Meta Front-End Developer Professional Certificate
 
-![master_head](/master_head.png)
+![master_head](master_head.png)
 
 ## Course 1 : [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development)
 
