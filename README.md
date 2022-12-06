@@ -141,6 +141,7 @@
 <br/>
 
 - [Week 2](/C5-React-Basics/week2/)
+ - [Lab - Dynamic Events](/C5-React-Basics/week2/lab-dynamic-events/)
 
 <br/>
 
