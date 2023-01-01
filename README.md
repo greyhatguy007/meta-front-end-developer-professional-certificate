@@ -142,13 +142,16 @@
 
 - [Week 2](/C5-React-Basics/week2/)
  - [Lab - Dynamic Events](/C5-React-Basics/week2/lab-dynamic-events/)
+ - [Module Quiz](/C5-React-Basics/week2/module-quiz-data-and-state/)
 
 <br/>
 
 
 - [Week 3](/C5-React-Basics/week3/)
+  - [Module Quiz](/C5-React-Basics/week3/module-quiz/)
 
 <br/>
 
 
 - [Week 4](/C5-React-Basics/week4/)
+  - [Graded Assignment - Calculator App](/C5-React-Basics/week4/final-lab-calculator-app/)
