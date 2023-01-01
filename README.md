@@ -141,8 +141,8 @@
 <br/>
 
 - [Week 2](/C5-React-Basics/week2/)
- - [Lab - Dynamic Events](/C5-React-Basics/week2/lab-dynamic-events/)
- - [Module Quiz](/C5-React-Basics/week2/module-quiz-data-and-state/)
+  - [Lab - Dynamic Events](/C5-React-Basics/week2/lab-dynamic-events/)
+  - [Module Quiz](/C5-React-Basics/week2/module-quiz-data-and-state/)
 
 <br/>
 
