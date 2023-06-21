@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  padding: 16px;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.Page {
+  max-width: 1280px;
+  margin: 0 auto;
+}
