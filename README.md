@@ -185,6 +185,8 @@
 <br/>
 
 - [Week 4](/C6-Advanced-React/week4/)
+  - [Final Graded Quiz](/C6-Advanced-React/week4/final-graded-quiz/)
+  - [Portfolio Project](/C6-Advanced-React/week4/portfolio/)
 
 <br/>
 
