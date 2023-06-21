@@ -188,6 +188,8 @@
   - [Final Graded Quiz](/C6-Advanced-React/week4/final-graded-quiz/)
   - [Portfolio Project](/C6-Advanced-React/week4/portfolio/)
 
+### [Certificate Of Completion](https://coursera.org/share/8548f0013bf6b6d3aab1adef5d541e77)
+
 <br/>
 
 ## Rest courses coming soon...
