@@ -171,6 +171,9 @@
 <br/>
 
 - [Week 2](/C6-Advanced-React/week2/)
+  - [Lab - Managing States Within a Component](/C6-Advanced-React/week2/lab-managing-states-within-a-component/)
+  - [Lab - Creating Your own Custom Hook](/C6-Advanced-React/week2/lab-create-your-own-custom-hook/)
+  - [Module Quiz - React Hooks and Custom Hooks](/C6-Advanced-React/week2/module-quiz/)
 
 <br/>
 
