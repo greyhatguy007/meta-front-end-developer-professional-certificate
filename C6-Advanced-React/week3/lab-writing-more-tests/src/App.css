@@ -1,0 +1,32 @@
+.App {
+  padding: 16px;
+  width: 400px;
+}
+
+fieldset {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-right: 8px;
+}
+
+.Field {
+  padding-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Row {
+  display: flex;
+  flex-direction: row;
+}
+
+label {
+  margin-bottom: 16px;
+}
+
+textarea {
+  height: 100px;
+}

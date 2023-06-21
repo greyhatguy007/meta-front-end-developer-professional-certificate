@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  flex-direction: column;
+  padding: 16px;
+}
+
+button {
+  margin-top: 16px;
+  width: 150px;
+  height: 32px;
+  border: none;
+  border-radius: 4px;
+  background-color: darkblue;
+  color: white;
+}
+
+button:disabled,
+button[disabled] {
+  background-color: #cccccc;
+  color: #666666;
+}

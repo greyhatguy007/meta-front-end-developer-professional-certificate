@@ -178,6 +178,9 @@
 <br/>
 
 - [Week 3](/C6-Advanced-React/week3/)
+  - [Lab - Build a Radio Group Component](/C6-Advanced-React/week3/lab-build-a-radio-group-component/)
+  - [Lab - Writing More Tests](/C6-Advanced-React/week3/lab-writing-more-tests/)
+  - [Module Quiz - JSX and Testing](/C6-Advanced-React/week3/module-quiz-jsx-and-testing/)
 
 <br/>
 

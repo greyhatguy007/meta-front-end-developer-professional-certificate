@@ -1,0 +1,19 @@
+.RadioGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.RadioOption {
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+
+input {
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+label {
+  cursor: pointer;
+}
