@@ -158,4 +158,28 @@
 
 ### [Certificate Of Completion](https://coursera.org/share/4292a69ffca4738dfebf707a3e76d14b)
 
+<br/>
+
+## Course 6 : [Advanced React](/C6-Advanced-React/)
+
+- [Week 1](/C6-Advanced-React/week1/)
+  - [Lab - Create a Basic List Component](/C6-Advanced-React/week1/lab-create-a-basic-list-component/)
+  - [Lab - Create a Registration Form](/C6-Advanced-React/week1/lab-create-a-registration-form/)
+  - [Lab - Create a Light Dark Theme Switcher](/C6-Advanced-React/week1/lab-create-a-light-dark-theme-switcher/)
+  - [Module Quiz - Components](/C6-Advanced-React/week1/module-quiz-components/)
+
+<br/>
+
+- [Week 2](/C6-Advanced-React/week2/)
+
+<br/>
+
+- [Week 3](/C6-Advanced-React/week3/)
+
+<br/>
+
+- [Week 4](/C6-Advanced-React/week4/)
+
+<br/>
+
 ## Rest courses coming soon...
