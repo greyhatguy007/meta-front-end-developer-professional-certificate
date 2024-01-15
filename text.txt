@@ -1,0 +1,11 @@
+Fork a repository = copy other's project in git hub
+click the Create fork button
+in your Vs code terminal > gh auth login
+Clone the repository using GitHub CLI command
+paste gh repo clone <YOUR USERNAME>/<REPOSITORY-NAME> in your terminal
+cd repo-name + touch somefile
+git diff to compare change
+Create a new branch. git checkout -b test/forking-example 
+git add .
+git commit
+git push -u origin new branch
